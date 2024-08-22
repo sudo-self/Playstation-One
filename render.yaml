@@ -1,0 +1,8 @@
+# Exported from Render on 2024-08-22T01:05:25Z
+services:
+- type: web
+  name: Playstation
+  runtime: static
+  repo: https://github.com/sudo-self/Playstation-One
+  staticPublishPath: ./
+version: "1"
